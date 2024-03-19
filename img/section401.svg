@@ -1,0 +1,18 @@
+<svg width="50.000000" height="50.000000" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_1">
+			<rect id="section401" width="50.000000" height="50.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_2_3_0" x1="-0.000001" y1="25.555655" x2="50.000000" y2="28.888979" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#E2AE80"/>
+			<stop offset="1.000000" stop-color="#CC9872"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip2_1)">
+		<circle id="Ellipse 78" cx="25.000000" cy="25.000000" r="25.000000" fill="url(#paint_linear_2_3_0)" fill-opacity="1.000000"/>
+		<path id="Arrow 129" d="M19.41 27L23.36 30.94C23.75 31.34 23.75 31.96 23.36 32.36C22.96 32.75 22.34 32.75 21.95 32.36L16.29 26.7C15.89 26.31 15.89 25.68 16.29 25.29L21.95 19.62C22.34 19.24 22.96 19.24 23.36 19.62C23.75 20.03 23.75 20.65 23.36 21.05L19.41 25L35 25L35 27L19.41 27Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

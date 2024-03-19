@@ -1,0 +1,19 @@
+<svg width="50.000000" height="50.000000" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip3_1">
+			<rect id="section401" width="50.000000" height="50.000000" transform="matrix(-1 -0 0 1 50 0)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient id="paint_linear_3_3_0" x1="-0.000001" y1="25.555655" x2="50.000000" y2="28.888979" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#E2AE80"/>
+			<stop offset="1.000000" stop-color="#CC9872"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip3_1)">
+		<rect id="Компоненты 14" width="50.000000" height="50.000000" transform="matrix(1 0 0 -1 0 50)" fill="#FFFFFF" fill-opacity="0"/>
+		<circle id="Ellipse 78" r="25.000000" transform="matrix(-1 1 0 -0 25 25)" fill="url(#paint_linear_3_3_0)" fill-opacity="1.000000"/>
+		<path id="Arrow 129" d="M30.59 27L26.64 30.94C26.25 31.34 26.25 31.96 26.64 32.36C27.04 32.75 27.66 32.75 28.05 32.36L33.71 26.7C34.11 26.31 34.11 25.68 33.71 25.29L28.05 19.62C27.66 19.24 27.04 19.24 26.64 19.62C26.25 20.03 26.25 20.65 26.64 21.05L30.59 25L15 25L15 27L30.59 27Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
