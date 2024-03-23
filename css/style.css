@@ -1095,12 +1095,13 @@ body {
 .section7__bloc2-map-content {
 	width: 349px;
 	height: 290px;
+	margin-left: 10px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
 }
-.section7__bloc2-hamburg > iframe,
-.section7__bloc2-yerevan > iframe {
+.section7__bloc2-hamburg iframe,
+.section7__bloc2-yerevan iframe {
 	max-width: 32vw;
 	max-height: 35vh;
 }
@@ -1386,7 +1387,8 @@ body {
 		flex-wrap: wrap;
 		height: 750px;
 	}
-	iframe {
+	.section7__bloc2-yerevan iframe,
+	.section7__bloc2-hamburg iframe {
 		min-width: 73vw;
 		min-height: 35vh;
 	}
